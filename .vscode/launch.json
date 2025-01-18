@@ -16,7 +16,7 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open demo.html",
+            "name": "Open index.html",
             "file": "d:\\manager F\\桌面\\ZHYL\\index.html"
         }
     ]
